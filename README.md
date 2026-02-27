@@ -1,4 +1,5 @@
 ## Python - 100天从新手到大师
+### From Flare: this fork is for minor changes to supplement for better learning
 
 > **作者**：骆昊
 >
